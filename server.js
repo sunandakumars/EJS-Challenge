@@ -59,6 +59,6 @@ if(post.posttitle === requestedTitile){
 
 
 
-app.listen(3000, function() {
+app.listen(8080, function() {
   console.log("Server started on port 3000");
 });
